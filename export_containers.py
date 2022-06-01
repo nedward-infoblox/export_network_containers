@@ -31,7 +31,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Variables -----------------------------------------|
 # Grid credentials
-gm_ip = '10.64.41.18'
+gm_ip = '10.6.1.8'
 gm_user = 'admin'
 gm_pwd = 'infoblox'
 
